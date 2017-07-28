@@ -1,0 +1,4 @@
+This is sample file to count the number of words
+mapper will count the words per line
+reducer will aggregate them
+this is the end of the word count input
